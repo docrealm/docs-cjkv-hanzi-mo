@@ -2,7 +2,7 @@
 
 ## Charset: MSCS
 
-澳门增补字符集（Macao Supplementary Character Set, MSCS）
+澳门增补字符集（Macao Supplementary Character Set，**MSCS**）
 
 - [x] 2021年1月，《澳門增補字符集 – 2020》
 - [x] 2022年9月，《澳門增補字符集 – 2020》增订版
